@@ -104,7 +104,7 @@ namespace AccountCreation
             List<User> user_list = new List<User>();
             string[] choices = { "Create new Account", "Login to Account" };
             
-            base_user.changePassword("Slicer4101");
+            base_user.changePassword("DannyBoy1");
             base_user.changeUsername("SRGTxTwinkie");
             user_list.Add(base_user);
 
